@@ -2,6 +2,6 @@ n = int(input())
 m = int(input())
 
 if n + m >= 0:
-    print("1")
+    print("Сумма больше 0")
 else:
-    print("0")
+    print("Сумма меньше нуля")
