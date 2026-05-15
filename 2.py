@@ -1,7 +1,8 @@
 n = int(input())
 m = int(input())
 
-if n*m + n/m >= 0:
-    print("1")
+if n + m >= 0:
+    print("Сумма больше 0")
 else:
-    print("0")
+    print("Сумма меньше нуля")
+
