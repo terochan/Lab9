@@ -1,2 +1,2 @@
-for n in range(1):
+for n in range(3):
     print("Hello, world!")
